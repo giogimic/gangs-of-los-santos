@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Gangs of Los Santos</h1>
-  <p>A resource for Grand Theft Auto V that spawns enemy peds in specified zones based on gang affiliation.</p>
+  <p>A resource for fivem that spawns enemy peds in specified zones based on gang affiliation.</p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License MIT">
 </div>
